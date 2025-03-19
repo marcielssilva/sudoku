@@ -1,4 +1,4 @@
-package sudoku.util;
+package com.marcielssilva.util;
 
 public final class BoardTemplate {
 

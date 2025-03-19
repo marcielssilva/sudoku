@@ -1,8 +1,8 @@
-package sudoku.model;
+package com.marcielssilva.model;
 
-import static sudoku.model.GameStatusEnum.NON_STARTED;
-import static sudoku.model.GameStatusEnum.COMPLETE;
-import static sudoku.model.GameStatusEnum.INCOMPLETE;
+import static com.marcielssilva.model.GameStatusEnum.COMPLETE;
+import static com.marcielssilva.model.GameStatusEnum.INCOMPLETE;
+import static com.marcielssilva.model.GameStatusEnum.NON_STARTED;
 import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
 

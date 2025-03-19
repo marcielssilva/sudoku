@@ -1,4 +1,4 @@
-package sudoku.model;
+package com.marcielssilva.model;
 
 public class Space {
 	
